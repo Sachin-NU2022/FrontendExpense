@@ -1,0 +1,53 @@
+.expensecatlistmaindiv{
+    background-color: "#fff";
+    width: 100%;
+    padding: 30px;
+}
+.expensecatlistmainform{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.margin-less{
+    margin: 0px!important;
+}
+.expcatregisterbtn{
+    width: 80%;
+    margin-left: 20%;
+}
+.expensecatregmaindiv{
+    background-color: #fff;
+    width: 96%;
+    position: relative;
+    top: 3%;
+    bottom: 2%;
+    right: 2%;
+    left: 2%;
+}
+.catregisterform{
+    padding: 15px;
+    width: 100%;
+
+}
+.designcol{
+    padding: 0%;
+    width: 100%;
+    margin-top: 20px;
+}
+.martop{
+    margin-top: 20px!important;
+   
+}
+.inputdesign{
+    height: 60px;
+}
+.headingdesigncategory{
+    font-size: 25px;
+    padding: 12px;
+}
+.listinputdesign{
+    background-color: #f4f6f9;
+}
+.searchinnerbody{
+    margin-bottom: 20px;
+}

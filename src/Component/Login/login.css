@@ -1,0 +1,35 @@
+.mainlogindiv{
+              background-color: #ffffff;
+              height: 100vh;
+}
+.mainlogindivform{
+                  background-color: #e8e9eb;
+                  margin-top: 35%;
+                  padding: 25px;
+                  border-radius:10px;
+}
+.heading-title{
+                font-size: 38px;
+                text-align: center;
+}
+
+.inputloginfirst,
+.inputloginsecond{
+                   height: 55px;
+                   padding: 15px;
+                   margin-bottom: 20px!important;
+                   border-radius: 10px;
+                   background-color: #ffffff!important;
+}
+
+.loginbtn{
+    width: 100%;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 15px!important;
+    background-color: #0e407d!important;
+    border: none!important;
+}
+.paradesign{
+            font-size: 18px;
+}

@@ -1,0 +1,23 @@
+.expregisterbtn{
+                width: 80%;
+                margin-left: 20%;
+}
+.headingtopdesign{
+                  font-size: 40px;
+                  padding-top: 50px;
+                  text-align: center;
+}
+.expinputformdesign{
+                  height: 50px;
+                  padding: 10px;
+                  background-color: #f4f6f9!important;
+}
+.designbreakbar{
+                width: 100%;
+                padding-top: 15px;
+                text-align: center;
+                font-size: 60px;
+}
+.headingexpensedesign{
+                font-size: 25px;
+}

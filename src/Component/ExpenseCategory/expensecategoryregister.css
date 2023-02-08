@@ -1,0 +1,33 @@
+.expensecatregmaindiv{
+         background-color: #fff;
+         width: 96%;
+         position: relative;
+         top: 3%;
+         bottom: 2%;
+         right: 2%;
+         left: 2%;
+}
+.catregisterform{
+         padding: 15px;
+         width: 100%;
+}
+.designcol{
+         padding: 0%;
+         width: 100%;
+}
+.martop{
+         margin-top: 20px!important;
+         padding: 20px;
+}
+.inputdesign{
+         height: 60px;
+}
+.expensecatregbtn{
+         background-color: yellow!important;
+}
+.headingupdatecategory{
+        font-size: 30px;
+        padding: 25px;
+        text-align: center;
+}
+

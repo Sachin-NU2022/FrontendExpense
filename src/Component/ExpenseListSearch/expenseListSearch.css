@@ -1,0 +1,27 @@
+.expenselistmainform{
+                     background-color: #fff;
+                     padding: 20px;
+                     margin-top: 50px;
+}
+.martop{
+        margin-top: 80px!important;
+}
+.headcolor{
+        background-color: #f4f6f9;
+      
+}
+.breakdesign{
+        padding-top: 35px;
+        text-align: center;
+        font-size: 30px;
+}
+.margintoprow{
+              margin-top: 20px!important;
+}
+.formdesigninput{
+              height: 50px;
+              background-color: #f4f6f9!important;
+}
+.margin-less{
+        margin: 0px!important;
+}

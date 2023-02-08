@@ -1,0 +1,24 @@
+.martoppagination{
+            margin-top: 30px;
+}
+
+.page-link-item{
+            width: 50px;
+            height: 35px;
+            text-decoration: none;
+            background-color: #aaaaaa;
+            color: #000;
+            text-align: center;
+            padding-bottom: 0px;
+            padding-top: 3px;
+            margin: 1px;
+            border-radius: 2px;
+}
+.page-link-item:hover{
+           color:#000;
+}
+.active{
+        background-color: #dc3545; 
+        color: #000;
+        border-radius: 2px;
+}

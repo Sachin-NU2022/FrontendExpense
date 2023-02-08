@@ -1,0 +1,19 @@
+
+.editbtn{
+    background: #DC3545!important;
+    border: none!important;
+    width: 100%!important;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.editicon{
+          font-size: 25px;
+          text-align: center;
+          margin-top: -8px;
+}
+td{
+    padding: 10px;
+}
+.pad{
+     padding: 12px;
+}
